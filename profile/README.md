@@ -1,6 +1,6 @@
 # 🍓 Welcome to Strawberry Foundations
 
-![Banner](https://github.com/user-attachments/assets/7659b072-95fc-4ce3-acea-4e10d3734933)
+<img src="https://github.com/user-attachments/assets/7659b072-95fc-4ce3-acea-4e10d3734933" width="300px" alt="Banner">
 
 
 We create universal and simple software solutions that make development easier and more efficient.
