@@ -1,9 +1,9 @@
-# 🍓 Welcome to Strawberry Foundations
+<div align="center">
+    <h1>🍓 Welcome to Strawberry Foundations</h1>
+    <img src="https://github.com/user-attachments/assets/7659b072-95fc-4ce3-acea-4e10d3734933" width="300px" alt="Banner">
+    <h4>We create universal and simple software solutions that make development easier and more efficient.</h4>
+</div>
 
-<img src="https://github.com/user-attachments/assets/7659b072-95fc-4ce3-acea-4e10d3734933" width="300px" alt="Banner">
-
-
-We create universal and simple software solutions that make development easier and more efficient.
 
 ## 🚀 What We Do
 - 🛠️ Develop open source tools and libraries
