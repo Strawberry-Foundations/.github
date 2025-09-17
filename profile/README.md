@@ -13,6 +13,7 @@
 
 ## 🔧 Our Main Projects
 - **Strawberry Chat**: A simple but nice chat platform for your terminal
+- **Tunneled**: A simple CLI tool for making local tcp tunnels
 - **Strawberry OS**: A lightweight Linux distribution focused on simplicity and performance
 
 ... and more! 
@@ -20,6 +21,8 @@
 ## 💻 Technologies We Use
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/-Rust-orange?style=for-the-badge&logo=rust&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML-orange?style=for-the-badge&logo=html5&logoColor=white)
 
 ## 📫 Get in Touch
 - 🌐 Website: [strawberryfoundations.org](https://strawberryfoundations.org)
